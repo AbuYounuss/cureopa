@@ -209,21 +209,7 @@
                                 <span class="special-price">$ 50.00</span>
                             </div>
                         </div>
-                        <div class="add-to-cart-area clear pt-35">
-                            <div class="add-to-cart text-uppercase">
-                                <button>add to cart</button>
-                            </div>
-                            <div class="add-to-links">
-                                <ul>
-                                    <li class="left">
-                                        <a href="#"><i class="fa fa-adjust"></i></a>
-                                    </li>
-                                    <li class="right">
-                                        <a href="#"><i class="fa fa-heart-o"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                        {{--  --}}
                     </div>
                 </div>
                 <div class="single-product">
@@ -248,21 +234,7 @@
                                 <span class="special-price">$ 30.00</span>
                             </div>
                         </div>
-                        <div class="add-to-cart-area clear pt-35">
-                            <div class="add-to-cart text-uppercase">
-                                <button>add to cart</button>
-                            </div>
-                            <div class="add-to-links">
-                                <ul>
-                                    <li class="left">
-                                        <a href="#"><i class="fa fa-adjust"></i></a>
-                                    </li>
-                                    <li class="right">
-                                        <a href="#"><i class="fa fa-heart-o"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                        {{--  --}}
                     </div>
                 </div>
                 <div class="single-product">
@@ -290,21 +262,7 @@
                                 </span>
                             </div>
                         </div>
-                        <div class="add-to-cart-area clear pt-35">
-                            <div class="add-to-cart text-uppercase">
-                                <button>add to cart</button>
-                            </div>
-                            <div class="add-to-links">
-                                <ul>
-                                    <li class="left">
-                                        <a href="#"><i class="fa fa-adjust"></i></a>
-                                    </li>
-                                    <li class="right">
-                                        <a href="#"><i class="fa fa-heart-o"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
                 <div class="single-product">
@@ -329,21 +287,7 @@
                                 <span class="special-price">$ 45.00</span>
                             </div>
                         </div>
-                        <div class="add-to-cart-area clear pt-35">
-                            <div class="add-to-cart text-uppercase">
-                                <button>add to cart</button>
-                            </div>
-                            <div class="add-to-links">
-                                <ul>
-                                    <li class="left">
-                                        <a href="#"><i class="fa fa-adjust"></i></a>
-                                    </li>
-                                    <li class="right">
-                                        <a href="#"><i class="fa fa-heart-o"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                        {{--  --}}
                     </div>
                 </div>
                 <div class="single-product">
@@ -371,21 +315,7 @@
                                 </span>
                             </div>
                         </div>
-                        <div class="add-to-cart-area clear pt-35">
-                            <div class="add-to-cart text-uppercase">
-                                <button>add to cart</button>
-                            </div>
-                            <div class="add-to-links">
-                                <ul>
-                                    <li class="left">
-                                        <a href="#"><i class="fa fa-adjust"></i></a>
-                                    </li>
-                                    <li class="right">
-                                        <a href="#"><i class="fa fa-heart-o"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                        {{--  --}}
                     </div>
                 </div>
             </div>
@@ -449,21 +379,6 @@
                                         <span class="special-price">$ 50.00</span>
                                     </div>
                                 </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         <div class="single-product">
@@ -486,21 +401,6 @@
                                             <li><i class="fa fa-star"></i></li>
                                         </ul>
                                         <span class="special-price">$ 55.00</span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -530,21 +430,6 @@
                                         </span>
                                     </div>
                                 </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         <div class="single-product">
@@ -567,21 +452,6 @@
                                             <li><i class="fa fa-star"></i></li>
                                         </ul>
                                         <span class="special-price">$ 30.00</span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -611,21 +481,6 @@
                                         </span>
                                     </div>
                                 </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         <div class="single-product">
@@ -648,21 +503,6 @@
                                             <li><i class="fa fa-star"></i></li>
                                         </ul>
                                         <span class="special-price">$ 45.00</span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -690,21 +530,6 @@
                                         <span class="old-price">
                                             <del>$ 46.00</del>
                                         </span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -735,21 +560,6 @@
                                         <span class="special-price">$ 50.00</span>
                                     </div>
                                 </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         <div class="single-product">
@@ -772,21 +582,6 @@
                                             <li><i class="fa fa-star"></i></li>
                                         </ul>
                                         <span class="special-price">$ 55.00</span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -816,21 +611,6 @@
                                         </span>
                                     </div>
                                 </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         <div class="single-product">
@@ -853,21 +633,6 @@
                                             <li><i class="fa fa-star"></i></li>
                                         </ul>
                                         <span class="special-price">$ 30.00</span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -897,21 +662,6 @@
                                         </span>
                                     </div>
                                 </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         <div class="single-product">
@@ -934,21 +684,6 @@
                                             <li><i class="fa fa-star"></i></li>
                                         </ul>
                                         <span class="special-price">$ 45.00</span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -976,21 +711,6 @@
                                         <span class="old-price">
                                             <del>$ 46.00</del>
                                         </span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -1021,21 +741,6 @@
                                         <span class="special-price">$ 50.00</span>
                                     </div>
                                 </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         <div class="single-product">
@@ -1058,21 +763,6 @@
                                             <li><i class="fa fa-star"></i></li>
                                         </ul>
                                         <span class="special-price">$ 55.00</span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -1102,21 +792,6 @@
                                         </span>
                                     </div>
                                 </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         <div class="single-product">
@@ -1139,21 +814,6 @@
                                             <li><i class="fa fa-star"></i></li>
                                         </ul>
                                         <span class="special-price">$ 30.00</span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -1183,21 +843,6 @@
                                         </span>
                                     </div>
                                 </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         <div class="single-product">
@@ -1220,21 +865,6 @@
                                             <li><i class="fa fa-star"></i></li>
                                         </ul>
                                         <span class="special-price">$ 45.00</span>
-                                    </div>
-                                </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -1264,21 +894,6 @@
                                         </span>
                                     </div>
                                 </div>
-                                <div class="add-to-cart-area clear pt-35">
-                                    <div class="add-to-cart text-uppercase">
-                                        <button>add to cart</button>
-                                    </div>
-                                    <div class="add-to-links">
-                                        <ul>
-                                            <li class="left">
-                                                <a href="#"><i class="fa fa-adjust"></i></a>
-                                            </li>
-                                            <li class="right">
-                                                <a href="#"><i class="fa fa-heart-o"></i></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -1289,58 +904,59 @@
     <!-- tab area end  -->
 
     <!-- testmonial area start -->
-    <div class="testimonial-main-area">
-        <div class="testimonial bg-img-2">
-            <div class="testimo-slider">
-                <div class="test-active owl-carousel next-prev-style">
-                    <div class="single-test text-center pt-90">
-                        <div class="test-img">
-                            <a href="#">
-                                <img src="assets/images/test/1.webp" alt="" />
-                            </a>
-                        </div>
-                        <div class="test-content mtb-35 plr-55">
-                            <p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis</p>
-                            <div class="test-info mt-30">
-                                <a href="#">victor</a>
-                                <span>Webdesigner</span>
-                                <span class="email">hasib.me1995@gmail.com</span>
-                            </div>
+<div class="testimonial-main-area">
+    <div class="testimonial bg-img-2">
+        <div class="testimo-slider">
+            <div class="test-active owl-carousel next-prev-style">
+                <div class="single-test text-center pt-90">
+                    <div class="test-img">
+                        <a href="#">
+                            <img src="assets/images/test/1.webp" alt="Customer Review" />
+                        </a>
+                    </div>
+                    <div class="test-content mtb-35 plr-55">
+                        <p>Coreopa gives me a calm and trusted place to explore health, beauty, and self-care ideas. The content feels helpful, fresh, and easy to follow for my daily wellness routine.</p>
+                        <div class="test-info mt-30">
+                            <a href="#">Sophia Carter</a>
+                            <span>Beauty Enthusiast</span>
+                            <span class="location">Los Angeles, CA</span>
                         </div>
                     </div>
-                    <div class="single-test text-center pt-90">
-                        <div class="test-img">
-                            <a href="#">
-                                <img src="assets/images/test/2.webp" alt="" />
-                            </a>
-                        </div>
-                        <div class="test-content mtb-35 plr-55">
-                            <p>Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis</p>
-                            <div class="test-info mt-30">
-                                <a href="#">Aussiemines</a>
-                                <span>Webdesigner</span>
-                                <span class="email">hasib.me1995@gmail.com</span>
-                            </div>
+                </div>
+                <div class="single-test text-center pt-90">
+                    <div class="test-img">
+                        <a href="#">
+                            <img src="assets/images/test/2.webp" alt="Customer Review" />
+                        </a>
+                    </div>
+                    <div class="test-content mtb-35 plr-55">
+                        <p>I really like how Coreopa presents beauty and wellness in a simple and elegant way. It feels inspiring, clean, and useful for anyone who wants to care for their skin and lifestyle.</p>
+                        <div class="test-info mt-30">
+                            <a href="#">Emily Watson</a>
+                            <span>Wellness Lover</span>
+                            <span class="location">New York, NY</span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="Newsletter-area bg-img-3 ptl-100">
-            <div class="news-taitle">
-                <h3>Sign up for</h3>
-                <h1>send</h1>
-                <h2>Newsletter</h2>
-            </div>
-            <div class="newsletter">
-                <form action="#">
-                    <input type="email" placeholder="Enter your email address"/><br />
-                    <button>Subscribe <i class="fa fa-long-arrow-right"></i></button>
-                </form>
-            </div>
+    </div>
+
+    <div class="Newsletter-area bg-img-3 ptl-100">
+        <div class="news-taitle">
+            <h3>Sign up for</h3>
+            <h1>Coreopa</h1>
+            <h2>Newsletter</h2>
+        </div>
+        <div class="newsletter">
+            <form action="#">
+                <input type="email" placeholder="Enter your email address"/><br />
+                <button>Subscribe <i class="fa fa-long-arrow-right"></i></button>
+            </form>
         </div>
     </div>
-    <!-- testmonial area end -->
+</div>
+<!-- testmonial area end -->
 
     <!-- blog area start -->
     <div class="blog-area mtb-60">
@@ -1486,47 +1102,47 @@
             <div class="brand-active owl-carousel next-prev-style">
                 <div class="single-brand">
                     <a href="#">
-                        <img src="assets/images/brand/1.webp" alt="" />
+                        <img src="assets/images/brand/agroexa.png" alt="" />
                     </a>
                 </div>
                 <div class="single-brand">
                     <a href="#">
-                        <img src="assets/images/brand/2.webp" alt="" />
+                        <img src="assets/images/brand/aidvly.png" alt="" />
                     </a>
                 </div>
                 <div class="single-brand">
                     <a href="#">
-                        <img src="assets/images/brand/3.webp" alt="" />
+                        <img src="assets/images/brand/bookvly.png" alt="" />
                     </a>
                 </div>
                 <div class="single-brand">
                     <a href="#">
-                        <img src="assets/images/brand/1.webp" alt="" />
+                        <img src="assets/images/brand/cartvly.png" alt="" />
                     </a>
                 </div>
                 <div class="single-brand">
                     <a href="#">
-                        <img src="assets/images/brand/4.webp" alt="" />
+                        <img src="assets/images/brand/coreopa.png" alt="" />
                     </a>
                 </div>
                 <div class="single-brand">
                     <a href="#">
-                        <img src="assets/images/brand/5.webp" alt="" />
+                        <img src="assets/images/brand/landvly.png" alt="" />
                     </a>
                 </div>
                 <div class="single-brand">
                     <a href="#">
-                        <img src="assets/images/brand/6.webp" alt="" />
+                        <img src="assets/images/brand/netvly.png" alt="" />
                     </a>
                 </div>
                 <div class="single-brand">
                     <a href="#">
-                        <img src="assets/images/brand/1.webp" alt="" />
+                        <img src="assets/images/brand/texvaz.png" alt="" />
                     </a>
                 </div>
                 <div class="single-brand">
                     <a href="#">
-                        <img src="assets/images/brand/5.webp" alt="" />
+                        <img src="assets/images/brand/vextroza.png" alt="" />
                     </a>
                 </div>
             </div>
