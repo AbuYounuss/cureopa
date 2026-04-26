@@ -27,7 +27,7 @@
 
     <!-- ======== Page title ============ -->
     <title>@yield('title', 'Cureopa.com - Health & Beauty')</title>
-
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/favicon.png') }}">
     <!-- CSS
 	============================================ -->
 
@@ -70,10 +70,11 @@
     <script src="{{ asset('assets/js/jquery.countdown.min.js') }}"></script>
     <script src="{{ asset('assets/js/jquery.magnific-popup.min.js') }}"></script>
     <script src="{{ asset('assets/js/wow.min.js') }}"></script>
-
+    {{-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> --}}
     <!-- Main JS -->
     <script src="{{ asset('assets/js/main.js') }}"></script>
 
     @stack('scripts')
 </body>
 </html>
+

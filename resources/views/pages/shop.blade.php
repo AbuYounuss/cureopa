@@ -13,7 +13,7 @@
 			<div class="woocommerce-breadcrumb ptb-15">
 				<div class="menu">
 					<ul>
-						<li><a href="{{ url('/') }}">Home</a></li>
+						<li><a href="index.html">Home</a></li>
 						<li class="active"><a href="javascript:void(0);">Shop</a></li>
 					</ul>
 				</div>
@@ -83,9 +83,9 @@
 												</div>
 											</div>
 											<div class="add-to-cart-area clear ptb-35">
-												<div class="add-to-cart text-uppercase">
+												{{-- <div class="add-to-cart text-uppercase">
 													<button>add to cart</button>
-												</div>
+												</div> --}}
 												<div class="add-to-links">
 													<ul>
 														<li class="left">
@@ -124,9 +124,9 @@
 												</div>
 											</div>
 											<div class="add-to-cart-area clear ptb-35">
-												<div class="add-to-cart text-uppercase">
+												{{-- <div class="add-to-cart text-uppercase">
 													<button>add to cart</button>
-												</div>
+												</div> --}}
 												<div class="add-to-links">
 													<ul>
 														<li class="left">
@@ -165,9 +165,9 @@
 												</div>
 											</div>
 											<div class="add-to-cart-area clear ptb-35">
-												<div class="add-to-cart text-uppercase">
+												{{-- <div class="add-to-cart text-uppercase">
 													<button>add to cart</button>
-												</div>
+												</div> --}}
 												<div class="add-to-links">
 													<ul>
 														<li class="left">
@@ -206,9 +206,9 @@
 												</div>
 											</div>
 											<div class="add-to-cart-area clear ptb-35">
-												<div class="add-to-cart text-uppercase">
+												{{-- <div class="add-to-cart text-uppercase">
 													<button>add to cart</button>
-												</div>
+												</div> --}}
 												<div class="add-to-links">
 													<ul>
 														<li class="left">
@@ -247,9 +247,9 @@
 												</div>
 											</div>
 											<div class="add-to-cart-area clear ptb-35">
-												<div class="add-to-cart text-uppercase">
+												{{-- <div class="add-to-cart text-uppercase">
 													<button>add to cart</button>
-												</div>
+												</div> --}}
 												<div class="add-to-links">
 													<ul>
 														<li class="left">
@@ -288,9 +288,9 @@
 												</div>
 											</div>
 											<div class="add-to-cart-area clear ptb-35">
-												<div class="add-to-cart text-uppercase">
+												{{-- <div class="add-to-cart text-uppercase">
 													<button>add to cart</button>
-												</div>
+												</div> --}}
 												<div class="add-to-links">
 													<ul>
 														<li class="left">
@@ -329,9 +329,9 @@
 												</div>
 											</div>
 											<div class="add-to-cart-area clear ptb-35">
-												<div class="add-to-cart text-uppercase">
+												{{-- <div class="add-to-cart text-uppercase">
 													<button>add to cart</button>
-												</div>
+												</div> --}}
 												<div class="add-to-links">
 													<ul>
 														<li class="left">
@@ -370,9 +370,9 @@
 												</div>
 											</div>
 											<div class="add-to-cart-area clear ptb-35">
-												<div class="add-to-cart text-uppercase">
+												{{-- <div class="add-to-cart text-uppercase">
 													<button>add to cart</button>
-												</div>
+												</div> --}}
 												<div class="add-to-links">
 													<ul>
 														<li class="left">
@@ -411,9 +411,9 @@
 												</div>
 											</div>
 											<div class="add-to-cart-area clear ptb-35">
-												<div class="add-to-cart text-uppercase">
+												{{-- <div class="add-to-cart text-uppercase">
 													<button>add to cart</button>
-												</div>
+												</div> --}}
 												<div class="add-to-links">
 													<ul>
 														<li class="left">
@@ -671,7 +671,7 @@
 			</div>
 
 			<div class="col-xl-3 col-lg-4">
-				<div class="categories-area mb-35 border-2">
+				{{-- <div class="categories-area mb-35 border-2">
 					<div class="product-title text-uppercase bg-5">
 						<h3>Shop By</h3>
 					</div>
@@ -701,9 +701,9 @@
 							</li>
 						</ul>
 					</div>
-				</div>
+				</div> --}}
 
-				<!-- compare-area start -->
+				{{-- <!-- compare-area start -->
 				<div class="compare-area border-2">
 					<div class="product-title text-uppercase bg-5">
 						<h3>Compare</h3>
@@ -713,39 +713,39 @@
 						<a href="#">Clear all</a>
 						<a href="#" data-toggle="tooltip" title="Compare" class="pull-right compare text-uppercase">Compare </a>
 					</div>
-				</div>
-
-				<!-- filter-by-price-area start -->
-				<div class="filter-by-price-area mtb-35 border-2">
-					<div class="product-title text-uppercase bg-5">
-						<h3>Filter by price</h3>
-					</div>
-					<div class="filter-by-price p-20-15">
-						<p>
-							price: <input type="text" id="amount">
-						</p>
-						<div id="slider-range"></div>
-						<div class="filter">
-							<button>filter</button>
-						</div>
-					</div>
-				</div>
+				</div> --}}
 
 				<!-- compare-area start -->
-				<div class="compare-area border-2">
+				{{-- <div class="compare-area border-2">
 					<div class="product-title text-uppercase bg-5">
 						<h3>My Wishlist</h3>
 					</div>
 					<div class="wishlist p-20">
 						<p>You have no items in your wish list.</p>
 					</div>
-				</div>
+				</div> --}}
 
+				<!-- banner-area start -->
+				<div class="banner-area mtb-35">
+					<div class="single-banner home2-single-banner mb-30">
+						<a href="#"><img src="assets/images/banner/home2/5.png" alt="" /></a>
+					</div>
+					<div class="single-banner home2-single-banner">
+						<a href="#"><img src="assets/images/banner/home2/2.webp" alt="" /></a>
+					</div>
+				</div>
 				<!-- banner-area start -->
 				<div class="banner-area mtb-35">
 					<div class="single-banner home2-single-banner mb-30">
 						<a href="#"><img src="assets/images/banner/home2/1.webp" alt="" /></a>
 					</div>
+					<div class="single-banner home2-single-banner">
+						<a href="#"><img src="assets/images/banner/home2/3.png" alt="" /></a>
+					</div>
+				</div>
+				<!-- banner-area start -->
+				<div class="banner-area mtb-35">
+
 					<div class="single-banner home2-single-banner">
 						<a href="#"><img src="assets/images/banner/home2/2.webp" alt="" /></a>
 					</div>
@@ -928,7 +928,6 @@
 		</div>
 	</div>
 
-    {{-- footer area start --}}
     @component('components.footer') @endcomponent
 
 @endsection

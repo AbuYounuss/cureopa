@@ -131,10 +131,7 @@
                                     <h3>Mega - Mushroom Skin Relief</h3>
                                 </div>
                                 <div class="cap-title wow flipInX d-none d-md-block" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit <br /> esse molestie consequat.</p>
-                                </div>
-                                <div class="cap-readmore wow flipInX organic-btn d-none d-md-block" data-wow-duration="1.6s" data-wow-delay=".5s">
-                                    <a href="#">shop now</a>
+                                    <p>Dr. Andrew Weil for Origins Mega-Mushroom Skin Relief products <br /> esse molestie consequat.</p>
                                 </div>
                             </div>
                         </div>
@@ -152,13 +149,10 @@
                                     <h3>Comes From Healthy.</h3>
                                 </div>
                                 <div class="cap-title wow fadeInLeft text-uppercase" data-wow-duration="1.2s" data-wow-delay="0.2s">
-                                    <h1>Rock And Glamour</h1>
+                                    <h1>Mega-Mushroom</h1>
                                 </div>
                                 <div class="cap-title wow flipInX d-none d-md-block" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit <br /> esse molestie consequat.</p>
-                                </div>
-                                <div class="cap-readmore wow flipInX organic-btn d-none d-md-block" data-wow-duration="1.6s" data-wow-delay=".5s">
-                                    <a href="#">shop now</a>
+                                    <p>Dr. Andrew Weil for Origins Mega-Mushroom Skin <br />Relief Soothing Treatment Lotion.</p>
                                 </div>
                             </div>
                         </div>
@@ -331,10 +325,10 @@
                     <div class="new-arrivals-content text-center">
                         <h3>New arrivals</h3>
                         <h1>Organic</h1>
-                        <h2>up to 80% off</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                        <h2>up to 40% off</h2>
+                        <p>The product in the selected region is Jurlique's Calendula Redness Rescue Soothing Moisturising Cream.</p>
                         <div class="organic-btn new-arrivals-btn mt-35">
-                            <a href="#">Read more <i class="fa fa-long-arrow-right"></i></a>
+                        <a href="{{url('contact-us')}}">Contact Us <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1097,7 +1091,7 @@
     <!-- blog area end -->
 
     <!-- brand-area start -->
-    <div class="brand-area text-center mb-100">
+    {{-- <div class="brand-area text-center mb-100">
         <div class="container">
             <div class="brand-active owl-carousel next-prev-style">
                 <div class="single-brand">
@@ -1147,7 +1141,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- brand-area end -->
 
     {{-- footer area start --}}

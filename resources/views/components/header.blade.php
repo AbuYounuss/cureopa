@@ -5,7 +5,7 @@
                 <div class="col-xl-4 col-lg-3 col-5">
                     <div class="logo">
                         <a href="{{ url('/') }}">
-                            <img src="assets/images/logo/logo.webp" alt="" />
+                            <img src="assets/images/logo/cureopafinal.png" alt="" />
                         </a>
                     </div>
                 </div>
@@ -156,10 +156,10 @@
                         <div class="header-action">
 
                             <div class="cart-area dropdown">
-                                <button class="cart-btn" data-bs-toggle="dropdown">
+                                {{-- <button class="cart-btn" data-bs-toggle="dropdown">
                                     <i class="fa fa-shopping-basket"></i>
                                     <span>3</span>
-                                </button>
+                                </button> --}}
                                 <div class="dropdown-menu dropdown-cart">
                                     <div class="cart-content">
                                         <ul class="cart-items">

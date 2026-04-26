@@ -527,3 +527,22 @@
 
 
 })(jQuery)
+
+
+
+// new add for shop page
+
+// shop by
+$(document).ready(function() {
+    // Toggle for the "Manufacturer" dropdown
+    $('.opener-1').on('click', function() {
+        $(this).siblings('.toggle-1').slideToggle(); // Toggle visibility of the next .toggle-1
+        $(this).toggleClass('active'); // Optional: Add class for active state
+    });
+
+    // Toggle for the "Price" dropdown
+    $('.opener-2').on('click', function() {
+        $(this).siblings('.toggle-2').slideToggle(); // Toggle visibility of the next .toggle-2
+        $(this).toggleClass('active'); // Optional: Add class for active state
+    });
+});
