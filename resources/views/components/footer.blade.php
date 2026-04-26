@@ -12,31 +12,31 @@
                                 <span> a question?</span>
                             </div>
                             <div class="text">
-                                +0123 456 789
+                                +1 210 792 4219
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="contact clear">
                             <div class="icon">
-                                <i class="fa fa-envelope-o"></i>
-                                <span>offer </span>
-                                <span> question?</span>
+                                <i class="fa fa-map-marker"></i>
+                                <span>Store </span>
+                                <span> Location</span>
                             </div>
                             <div class="text">
-                                <p>Contact@organica.com </p>
+                                <p>47 W 13th St, New York,<br> NY 10011, USA</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="contact clear res">
                             <div class="icon">
-                                <i class="fa fa-life-saver"></i>
-                                <span> SUpport  </span>
+                                <i class="fa fa-envelope-o"></i>
+                                <span> Support  </span>
                                 <span>question?</span>
                             </div>
                             <div class="text">
-                                <p>support@organica.com </p>
+                                <p>info@cureopa.com </p>
                             </div>
                         </div>
                     </div>
@@ -56,10 +56,9 @@
                             </div>
                             <div class="footer-menu  text-uppercase">
                                 <ul>
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="#">Delivery Information</a></li>
-                                    <li><a href="#">Privacy Policy</a></li>
-                                    <li><a href="#">Terms & Conditions </a></li>
+                                    <li><a href="{{url('about')}}">About us</a></li>
+                                    <li><a href="{{url('privacy')}}">Privacy Policy</a></li>
+                                    <li><a href="{{url('terms-conditions')}}">Terms & Conditions </a></li>
                                 </ul>
                             </div>
                         </div>
@@ -67,14 +66,14 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="footer-wrap">
                             <div class="footer-static-title text-uppercase">
-                                <h3>My Account</h3>
+                                <h3>Recent Blog</h3>
                             </div>
                             <div class="footer-menu  text-uppercase">
                                 <ul>
-                                    <li><a href="account.html">My Account</a></li>
-                                    <li><a href="#">Order History</a></li>
-                                    <li><a href="#">Returns</a></li>
-                                    <li><a href="#">Site Map </a></li>
+                                    <li><a href="{{url('blog')}}">Skin Care Routine</a></li>
+                                    <li><a href="{{url('blog')}}">Organic Beauty</a></li>
+                                    <li><a href="{{url('blog')}}">Wellness Tips</a></li>
+                                    <li><a href="{{url('blog')}}">Healthy Living</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -89,7 +88,6 @@
                                     <li><a href="#">Site Map</a></li>
                                     <li><a href="#">Site Map</a></li>
                                     <li><a href="#">Order History</a></li>
-                                    <li><a href="account.html"> My Account </a></li>
                                 </ul>
                             </div>
                         </div>
@@ -101,9 +99,9 @@
                             </div>
                             <div class="footer-menu  text-uppercase">
                                 <ul>
-                                    <li><a href="wishlist.html">Wish List</a></li>
+                                    <li><a href="#l">Wish List</a></li>
                                     <li><a href="#">compare</a></li>
-                                    <li><a href="contact.html">Contact Us</a></li>
+                                    <li><a href="{{ url('contact') }}">Contact Us</a></li>
                                     <li><a href="#">Custom Service</a></li>
                                 </ul>
                             </div>
@@ -120,7 +118,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="copyright">
-                            <p>&copy; 2021 <span> Organica </span> Made with <i class="fa fa-heart"></i> by <a href="https://hasthemes.com/">HasThemes</a></p>
+                            <p>&copy; {{ date('Y') }} <span> Cureopa </span>. All Rights Reserved.</p>
                         </div>
                     </div>
                     <div class="col-md-6">

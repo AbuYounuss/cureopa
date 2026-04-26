@@ -33,7 +33,6 @@
 
     <!-- Icon Font CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.min.css') }}">
-
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/animate.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
@@ -45,7 +44,7 @@
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
-
+    <link rel="stylesheet" href="{{ asset('assets/css/contact.css') }}">
     @stack('styles')
 </head>
 <body>

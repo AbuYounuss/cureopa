@@ -1,0 +1,176 @@
+/* Contact Page Styling */
+.contact-us-section {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+}
+
+/* Container */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Section Heading */
+.contact-us-section h3 {
+    font-size: 28px;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+/* Contact Info Box */
+.contact-info-box {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Contact Info Item */
+.contact-info-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.contact-info-item .icon-box {
+    background-color: #98AB64; /* Your website color */
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+    margin-right: 15px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.contact-info-item h4 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.contact-info-item p {
+    color: #777;
+    font-size: 16px;
+}
+
+/* Contact Form Box */
+.contact-form-box {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Form Input Fields */
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 18px 20px; /* Increased padding */
+    margin-bottom: 20px; /* Space between fields */
+    border-radius: 50px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+    border-color: #98AB64; /* Your website color */
+    box-shadow: 0 0 5px rgba(152, 171, 100, 0.5);
+}
+
+/* Submit Button */
+.contact-form button {
+    background-color: #98AB64; /* Your website color */
+    color: white;
+    padding: 18px 30px; /* Increased padding */
+    border-radius: 30px;
+    border: none;
+    font-size: 18px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px; /* Adds space before the button */
+}
+
+.contact-form button:hover {
+    background-color: #7a8c4b; /* Darker shade of your color for hover */
+}
+
+/* Message Response */
+#msgSubmit {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    display: none;
+}
+
+#msgSubmit.text-success {
+    color: #28a745;
+}
+
+#msgSubmit.text-danger {
+    color: #dc3545;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .contact-us-section {
+        padding: 30px 0;
+    }
+
+    .contact-info-box,
+    .contact-form-box {
+        padding: 20px;
+    }
+
+    .contact-info-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .contact-info-item .icon-box {
+        margin-bottom: 10px;
+    }
+
+    .contact-info-item h4 {
+        font-size: 18px;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        padding: 15px; /* Reduced padding on smaller screens */
+        font-size: 14px;
+    }
+
+    .contact-form button {
+        font-size: 16px;
+    }
+}
+
+/* Gradient Button Styling */
+.btn-gradient {
+    background: linear-gradient(135deg, #ff6a00, #ee0979); /* Vibrant gradient colors */
+    border: none;
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    border-radius: 50px; /* Rounded button for a smooth look */
+    transition: all 0.4s ease;
+    text-transform: uppercase;
+    letter-spacing: 1px; /* Adds slight spacing for better readability */
+}
+
+.btn-gradient:hover {
+    background: linear-gradient(135deg, #ee0979, #ff6a00); /* Inverts the gradient on hover */
+    transform: translateY(-5px); /* Slight upward movement for a 3D effect */
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Adds shadow to enhance hover effect */
+    cursor: pointer;
+}
+
+.btn-gradient:focus {
+    outline: none; /* Removes default focus outline */
+    box-shadow: 0 0 0 3px rgba(255, 106, 0, 0.6); /* Focus shadow with slight orange glow */
+}
+

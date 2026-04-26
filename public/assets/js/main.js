@@ -546,3 +546,7 @@ $(document).ready(function() {
         $(this).toggleClass('active'); // Optional: Add class for active state
     });
 });
+
+
+// contact page js
+

@@ -15,7 +15,7 @@
                             <div class="top-bar">
                                 <div class="top-bar-left">
                                     <div class="hotline">
-                                        <p>Order online or call us : +0123 456 789</p>
+                                        <p>Order online or call us : +12107924219</p>
                                     </div>
                                     <div class="topbar-language">
 
@@ -127,24 +127,7 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">Pages <i class="fa fa-chevron-down"></i></a>
-                                            <ul class="sub-menu">
-                                                <li><a href="{{ url('/cart') }}">Cart</a></li>
-                                                <li><a href="{{ url('/wishlist') }}">Wishlist</a></li>
-                                                <li><a href="{{ url('/checkout') }}">Checkout</a></li>
-                                                <li><a href="{{ url('/compare') }}">Compare</a></li>
-                                                <li><a href="{{ url('/account') }}">My Account</a></li>
-                                                <li><a href="{{ url('/login-register') }}">Login / Register</a></li>
-                                                <li><a href="{{ url('/about') }}">About</a></li>
-                                                <li><a href="{{ url('/404') }}">404</a></li>
-                                                <li><a href="{{ url('/blog') }}">Blog</a></li>
-                                                <li><a href="{{ url('/blog-details') }}">Blog Details</a></li>
-                                                <li><a href="{{ url('/contact') }}">Contact</a></li>
-                                                <li><a href="{{ url('/shop') }}">Shop</a></li>
-                                                <li><a href="{{ url('/shop-single-product') }}">Shop Single Product</a></li>
-                                                <li><a href="{{ url('/product-details-affiliate') }}">Product Details Affiliate</a></li>
-                                            </ul>
-                                        </li>
+                                        <li><a href="{{ url('/project') }}">Project</a></li>
                                         <li><a href="{{ url('/blog') }}">Blog</a></li>
                                         <li><a href="{{ url('/contact') }}">Contact</a>
                                         </li>

@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\ContactController;
 // Route::get('/', function () {
 //     return view('welcome');
 // });
@@ -40,7 +40,28 @@ Route::get('/blog-details/{slug}', function ($slug) {
 })->name('blog.details');
 
 
-// contact route
-Route::get('/contact',function(){
+
+// // contact page route
+// Route::get('/contact', [ContactController::class, 'index'])->name('contact');        // show page
+// Route::post('/contact', [ContactController::class, 'send'])->name('contact.send');   // handle form
+
+// contact page route
+Route::get('/contact', function () {
     return view('pages.contact');
-});
+})->name('contact');
+
+// project page route
+Route::get('/project', function () {
+    return view('pages.project');
+})->name('project');
+
+
+// terms and conditions route
+Route::get('/terms-conditions', function () {
+    return view('pages.terms-conditions');
+})->name('terms-conditions');
+
+// privacy policy route
+Route::get('/privacy', function () {
+    return view('pages.privacy');
+})->name('privacy');

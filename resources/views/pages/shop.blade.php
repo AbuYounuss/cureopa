@@ -739,9 +739,6 @@
 					<div class="single-banner home2-single-banner mb-30">
 						<a href="#"><img src="assets/images/banner/home2/1.webp" alt="" /></a>
 					</div>
-					<div class="single-banner home2-single-banner">
-						<a href="#"><img src="assets/images/banner/home2/3.png" alt="" /></a>
-					</div>
 				</div>
 				<!-- banner-area start -->
 				<div class="banner-area mtb-35">
