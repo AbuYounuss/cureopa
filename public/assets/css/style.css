@@ -3139,25 +3139,39 @@ html .ui-button.ui-state-disabled:active {
 		29.	blog-detals style here
 ----------------------------------------- */
 .blog-wrapper {
-	padding: 15px 15px 20px;
+	padding: 30px;
+	background: #ffffff;
+	border: 1px solid #ebebeb;
+	border-radius: 14px;
+	box-shadow: 0 15px 40px rgba(0, 0, 0, 0.05);
+}
+
+.blog-details .container {
+	padding-top: 50px;
+	padding-bottom: 60px;
 }
 
 .blog-img.single-blog-img {
 	position: relative;
+	border-radius: 14px;
+	overflow: hidden;
 }
 .blog-img.single-blog-img img {
 	width: 100%;
+	height: auto;
 }
 
 .date-post {
 	border: 1px solid #98AB3F;
-	height: 60px;
-	left: 20px;
-	top: 20px;
+	height: 72px;
+	left: 24px;
+	top: 24px;
 	position: absolute;
 	text-align: center;
-	width: 50px;
-	padding: 0px 10px;
+	width: 60px;
+	padding: 8px 8px;
+	background: rgba(152, 171, 63, 0.08);
+	border-radius: 12px;
 }
 
 .date-post span {
@@ -3199,10 +3213,37 @@ html .ui-button.ui-state-disabled:active {
 	border-left: 3px solid #98AB3F;
 }
 
-.single-blog-content .detals p {
+..single-blog-content .detals p {
 	font-size: 15px;
 	font-style: italic;
 	margin: 0px;
+}
+
+.blog-meta {
+	display: flex;
+	gap: 20px;
+	flex-wrap: wrap;
+	color: #666;
+	margin-bottom: 30px;
+	font-size: 14px;
+}
+
+.blog-meta span {
+	color: #808080;
+}
+
+.blog-content.single-blog-content>h3 {
+	font-size: 32px;
+	letter-spacing: 0.5px;
+	margin-bottom: 25px;
+}
+
+.single-blog-content .detals {
+	border-left: 4px solid #98AB3F;
+	background: #f7faf0;
+	padding: 20px 25px;
+	border-radius: 10px;
+	margin: 30px 0;
 }
 
 .category span {
@@ -4127,3 +4168,33 @@ html .ui-button.ui-state-disabled:active {
 }
 
 /*----- home slider seven end -----*/
+
+
+
+/* header new add Order online or call us: design */
+
+.hotline {
+    padding: 8px 15px;
+    background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%);
+    border-radius: 5px;
+    border-left: 3px solid #ff6b6b;
+}
+
+.hotline-content {
+    justify-content: flex-start;
+}
+
+.hotline-text {
+    font-size: 14px;
+    color: #333;
+    font-weight: 500;
+}
+
+.hotline-number {
+    transition: all 0.3s ease;
+}
+
+.hotline-number:hover {
+    color: #e55555 !important;
+    text-decoration: underline;
+}

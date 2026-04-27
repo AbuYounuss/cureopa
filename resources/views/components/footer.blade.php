@@ -12,7 +12,7 @@
                                 <span> a question?</span>
                             </div>
                             <div class="text">
-                                +1 210 792 4219
+                                +1(213)431-6094
                             </div>
                         </div>
                     </div>
@@ -59,6 +59,7 @@
                                     <li><a href="{{url('about')}}">About us</a></li>
                                     <li><a href="{{url('privacy')}}">Privacy Policy</a></li>
                                     <li><a href="{{url('terms-conditions')}}">Terms & Conditions </a></li>
+                                    <li><a href="{{url('return-policy')}}">Return Policy</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -81,28 +82,33 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="footer-wrap">
                             <div class="footer-static-title text-uppercase">
-                                <h3>Customer Service</h3>
+                                <h3>Our Projects</h3>
                             </div>
                             <div class="footer-menu  text-uppercase">
                                 <ul>
-                                    <li><a href="#">Site Map</a></li>
-                                    <li><a href="#">Site Map</a></li>
-                                    <li><a href="#">Order History</a></li>
-                                </ul>
+                                    <li><a href="https://vextroza.com/">vextroza.com</a></li>
+                                    <li><a href="https://cartvly.com/">Cartvly.com</a></li>
+                                    <li><a href="https://agroexa.com/">agroexa.com</a></li>
+                                    <li><a href="https://bookvly.com/">bookvly.com</a></li>
+                                    <li><a href="https://landvly.com/">landvly.com</a></li>
+                                    <li><a href="https://netvly.com/">netvly.com</a></li>
+                                    <li><a href="https://taxvaz.com/">taxvaz.com</a></li>
+
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6">
                         <div class="footer-wrap">
                             <div class="footer-static-title text-uppercase">
-                                <h3>Extras</h3>
+                                <h3>Personal Care</h3>
                             </div>
                             <div class="footer-menu  text-uppercase">
                                 <ul>
-                                    <li><a href="#l">Wish List</a></li>
-                                    <li><a href="#">compare</a></li>
-                                    <li><a href="{{ url('contact') }}">Contact Us</a></li>
-                                    <li><a href="#">Custom Service</a></li>
+                                    <li><a href="{{url('shop')}}">Hair Care</a></li>
+                                    <li><a href="{{url('shop')}}">Skin Care</a></li>
+                                    <li><a href="{{url('shop')}}">Body Care</a></li>
+                                    <li><a href="{{url('shop')}}">Face Care</a></li>
+                                    <li><a href="{{url('shop')}}">Fragrance</a></li>
                                 </ul>
                             </div>
                         </div>

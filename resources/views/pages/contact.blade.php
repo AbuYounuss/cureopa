@@ -22,7 +22,7 @@
                 </div>
                 <div class="contact-info-content d-inline-block ml-3">
                     <h4>Our Location</h4>
-                    <p>New York, Tillman Rd #D West Point, NY 10996</p>
+                    <p>Location47 W 13th St, New York,NY 10011, USA</p>
                 </div>
             </div>
 
@@ -44,7 +44,7 @@
                 </div>
                 <div class="contact-info-content d-inline-block ml-3">
                     <h4>Need Help?</h4>
-                    <p><a href="tel:+123456789">+(123) 456-789</a></p>
+                    <p><a href="mailto:info@cureopa.com">info@cureopa.com</a></p>
                 </div>
             </div>
         </div>

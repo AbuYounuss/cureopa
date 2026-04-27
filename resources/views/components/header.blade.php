@@ -5,7 +5,7 @@
                 <div class="col-xl-4 col-lg-3 col-5">
                     <div class="logo">
                         <a href="{{ url('/') }}">
-                            <img src="assets/images/logo/cureopafinal.png" alt="" />
+                            <img src="{{ asset('assets/images/logo/cureopafinal.png') }}" alt="" />
                         </a>
                     </div>
                 </div>
@@ -15,9 +15,13 @@
                             <div class="top-bar">
                                 <div class="top-bar-left">
                                     <div class="hotline">
-                                        <p>Order online or call us : +12107924219</p>
+                                        <div class="hotline-content d-flex align-items-center gap-2">
+                                            <i class="fa fa-phone" style="color: #ff6b6b; font-size: 18px;"></i>
+                                            <span class="hotline-text">Order online or call us:</span>
+                                            <a  class="hotline-number" style="color: #ff6b6b; font-weight: 600; text-decoration: none; font-size: 16px;">+1 (210) 792-4219</a>
+                                        </div>
                                     </div>
-                                    <div class="topbar-language">
+                                    {{-- <div class="topbar-language">
 
                                         <div class="dropdown">
                                             <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown"><span>USD $</span></a>
@@ -30,16 +34,16 @@
                                         </div>
 
                                         <div class="dropdown">
-                                            <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown"><img src="assets/images/flag/01.webp" alt="">English</a>
+                                            <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown"><img src="{{ asset('assets/images/flag/01.webp') }}" alt="">English</a>
 
                                             <ul class="dropdown-menu">
-                                                <li><a href="#"><img src="assets/images/flag/01.webp" alt="">English</a></li>
-                                                <li><a href="#"><img src="assets/images/flag/02.webp" alt=""> اللغة العربية</a></li>
-                                                <li><a href="#"><img src="assets/images/flag/03.webp" alt=""> Spanish</a></li>
+                                                <li><a href="#"><img src="{{ asset('assets/images/flag/01.webp') }}" alt="">English</a></li>
+                                                <li><a href="#"><img src="{{ asset('assets/images/flag/02.webp') }}" alt=""> اللغة العربية</a></li>
+                                                <li><a href="#"><img src="{{ asset('assets/images/flag/03.webp') }}" alt=""> Spanish</a></li>
                                             </ul>
                                         </div>
 
-                                    </div>
+                                    </div> --}}
                                 </div>
                                 <div class="top-bar-right">
                                     <div class="search-box">
@@ -54,79 +58,10 @@
                                 <nav>
                                     <ul>
                                         <li class="active"><a href="{{ url('/') }}">Home</a></li>
-                                        <li><a href="{{ url('/shop') }}">Shop <i class="fa fa-chevron-down"></i></a>
-                                            <ul class="mega-sub-menu">
-                                                <li>
-                                                    <a class="mega-title" href="#">Skincare</a>
-                                                    <ul class="menu-item">
-                                                        <li><a href="{{ url('/shop') }}">Cleansers & Toners</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Moisturizers</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Serums & Treatments</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Sun Care</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li>
-                                                    <a class="mega-title" href="#">Makeup</a>
-                                                    <ul class="menu-item">
-                                                        <li><a href="{{ url('/shop') }}">Face</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Eyes</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Lips</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Nails</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Brushes & Tools</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Makeup Palettes</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Makeup Removers</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Vegan Beauty</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li>
-                                                    <a class="mega-title" href="#">Wellness & Health</a>
-                                                    <ul class="menu-item">
-                                                        <li><a href="{{ url('/shop') }}">Vitamins & Supplements</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Aromatherapy</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Massage & Relaxation</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Fitness Accessories</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Essential Oils</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Sleep Support</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Immune Support</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Weight Management</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
+                                        <li><a href="{{ url('/shop') }}">Shop </a></li>
                                         {{-- about page --}}
                                         <li><a href="{{ url('/about') }}">About Us</a></li>
-
-                                        <li><a href="#">Personal Care <i class="fa fa-chevron-down"></i></a>
-                                            <ul class="mega-sub-menu">
-                                                <li>
-                                                    <a class="mega-title" href="#">Hair Care</a>
-                                                    <ul class="menu-item">
-                                                        <li><a href="{{ url('/shop') }}">Shampoo & Conditioner</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Hair Masks & Treatments</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Styling Products</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Hair Color</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li>
-                                                    <a class="mega-title" href="#">Body & Bath</a>
-                                                    <ul class="menu-item">
-                                                        <li><a href="{{ url('/shop') }}">Body Wash & Shower Gels</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Lotions & Creams</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Body Scrubs</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Deodorants & Antiperspirants</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li>
-                                                    <a class="mega-title" href="#">Fragrance</a>
-                                                    <ul class="menu-item">
-                                                        <li><a href="{{ url('/shop') }}">Women's Perfume</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Men's Cologne</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Body Sprays & Mists</a></li>
-                                                        <li><a href="{{ url('/shop') }}">Gift Sets</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
+                                        <li><a href="{{ url('/#PersonalCare') }}">Personal Care </a></li>
                                         <li><a href="{{ url('/project') }}">Project</a></li>
                                         <li><a href="{{ url('/blog') }}">Blog</a></li>
                                         <li><a href="{{ url('/contact') }}">Contact</a>
@@ -150,7 +85,7 @@
                                                 <!-- Single Cart Item Start -->
                                                 <div class="single-cart-item">
                                                     <div class="cart-thumb">
-                                                        <a href="#"><img src="assets/images/product/1.webp" alt=""></a>
+                                                        <a href="#"><img src="{{ asset('assets/images/product/1.webp') }}" alt=""></a>
                                                     </div>
                                                     <div class="cart-item-content">
                                                     <h6 class="product-name">Organic Vitamin C Serum</h6>
@@ -168,7 +103,7 @@
                                                 <!-- Single Cart Item Start -->
                                                 <div class="single-cart-item">
                                                     <div class="cart-thumb">
-                                                        <a href="#"><img src="assets/images/product/2.webp" alt=""></a>
+                                                        <a href="#"><img src="{{ asset('assets/images/product/2.webp') }}" alt=""></a>
                                                     </div>
                                                     <div class="cart-item-content">
                                                     <h6 class="product-name">Hydrating Facial Cleanser</h6>
@@ -186,7 +121,7 @@
                                                 <!-- Single Cart Item Start -->
                                                 <div class="single-cart-item">
                                                     <div class="cart-thumb">
-                                                        <a href="#"><img src="assets/images/product/3.webp" alt=""></a>
+                                                        <a href="#"><img src="{{ asset('assets/images/product/3.webp') }}" alt=""></a>
                                                     </div>
                                                     <div class="cart-item-content">
                                                     <h6 class="product-name">Aromatherapy Essential Oil Diffuser</h6>

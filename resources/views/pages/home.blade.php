@@ -183,14 +183,14 @@
             <div class="product-active owl-carousel next-prev-style">
                 <div class="single-product">
                     <div class="product-img">
-                        <a href="shop-single-product.html"><img src="assets/images/product/11.webp" alt="" /></a>
+                        <img src="assets/images/product/11.webp" alt="" />
                         <span class="sale">Sale</span>
                     </div>
                     <div class="product-item-details text-center">
                         <div class="product-name-review tab-product-name-review">
                             <div class="product-name mt-30 ">
                                 <span>Sample Category</span>
-                                <strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+                                <strong>Chaz Kangeroo Hoodie1</strong>
                             </div>
                             <div class="product-review">
                                 <ul>
@@ -208,14 +208,14 @@
                 </div>
                 <div class="single-product">
                     <div class="product-img">
-                        <a href="shop-single-product.html"><img src="assets/images/product/7.webp" alt="" /></a>
+                        <img src="assets/images/product/7.webp" alt="" />
                         <span class="new">new</span>
                     </div>
                     <div class="product-item-details text-center">
                         <div class="product-name-review tab-product-name-review">
                             <div class="product-name mt-30 ">
                                 <span>Sample Category</span>
-                                <strong><a href="shop-single-product.html">MH01-Black</a></strong>
+                                <strong>MH01-Black</strong>
                             </div>
                             <div class="product-review">
                                 <ul>
@@ -233,14 +233,14 @@
                 </div>
                 <div class="single-product">
                     <div class="product-img">
-                        <a href="shop-single-product.html"><img src="assets/images/product/8.webp" alt="" /></a>
+                        <img src="assets/images/product/8.webp" alt="" />
                         <span class="sale">Sale</span>
                     </div>
                     <div class="product-item-details text-center">
                         <div class="product-name-review tab-product-name-review">
                             <div class="product-name mt-30 ">
                                 <span>Sample Category</span>
-                                <strong><a href="shop-single-product.html">Rival Field Messenger</a></strong>
+                                <strong>Rival Field Messenger</strong>
                             </div>
                             <div class="product-review">
                                 <ul>
@@ -261,14 +261,14 @@
                 </div>
                 <div class="single-product">
                     <div class="product-img">
-                        <a href="shop-single-product.html"><img src="assets/images/product/6.webp" alt="" /></a>
+                       <img src="assets/images/product/6.webp" alt="" />
                         <span class="new">new</span>
                     </div>
                     <div class="product-item-details text-center">
                         <div class="product-name-review tab-product-name-review">
                             <div class="product-name mt-30 ">
                                 <span>Sample Category</span>
-                                <strong><a href="shop-single-product.html">Strive Shoulder Pack</a></strong>
+                                <strong>Strive Shoulder Pack</strong>
                             </div>
                             <div class="product-review">
                                 <ul>
@@ -286,14 +286,14 @@
                 </div>
                 <div class="single-product">
                     <div class="product-img">
-                        <a href="shop-single-product.html"><img src="assets/images/product/8.webp" alt="" /></a>
+                        <img src="assets/images/product/8.webp" alt="" />
                         <span class="sale">Sale</span>
                     </div>
                     <div class="product-item-details text-center">
                         <div class="product-name-review tab-product-name-review">
                             <div class="product-name mt-30 ">
                                 <span>Sample Category</span>
-                                <strong><a href="shop-single-product.html">Wayfarer Messenger Bag</a></strong>
+                                <strong>Wayfarer Messenger Bag</strong>
                             </div>
                             <div class="product-review">
                                 <ul>
@@ -328,7 +328,7 @@
                         <h2>up to 40% off</h2>
                         <p>The product in the selected region is Jurlique's Calendula Redness Rescue Soothing Moisturising Cream.</p>
                         <div class="organic-btn new-arrivals-btn mt-35">
-                        <a href="{{url('contact-us')}}">Contact Us <i class="fa fa-long-arrow-right"></i></a>
+                        <a href="{{url('contact')}}">Contact Us <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -338,7 +338,7 @@
     <!-- New arrivals area end -->
 
     <!-- tab area start  -->
-    <div class="tab-area mtb-100">
+    <div class="tab-area mtb-100 " id="PersonalCare">
         <div class="container">
             <div class="tab-menu  text-center mb-30">
                 <ul class="nav">
@@ -353,14 +353,14 @@
                     <div class="tab-active owl-carousel next-prev-style">
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/11.webp" alt="" /></a>
+                                <img src="assets/images/product/11.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+                                        <strong>Chaz Kangeroo Hoodie1</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -377,14 +377,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/10.webp" alt="" /></a>
+                                <img src="assets/images/product/10.webp" alt="" />
                                 <span class="new">new</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Fusion Backpack</a></strong>
+                                        <strong>Fusion Backpack</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -401,14 +401,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/9.webp" alt="" /></a>
+                                <img src="assets/images/product/9.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Joust Duffle Bag1</a></strong>
+                                        <strong>Joust Duffle Bag1</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -428,14 +428,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/7.webp" alt="" /></a>
+                                <img src="assets/images/product/7.webp" alt="" />
                                 <span class="new">new</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">MH01-Black</a></strong>
+                                        <strong>MH01-Black</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -452,14 +452,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/8.webp" alt="" /></a>
+                                <img src="assets/images/product/8.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Rival Field Messenger</a></strong>
+                                        <strong>Rival Field Messenger</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -479,14 +479,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/6.webp" alt="" /></a>
+                                <img src="assets/images/product/6.webp" alt="" />
                                 <span class="new">new</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Strive Shoulder Pack</a></strong>
+                                        <strong>Strive Shoulder Pack</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -503,14 +503,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/8.webp" alt="" /></a>
+                                <img src="assets/images/product/8.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Wayfarer Messenger Bag</a></strong>
+                                        <strong>Wayfarer Messenger Bag</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -534,14 +534,14 @@
                     <div class="tab-active owl-carousel next-prev-style">
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/8.webp" alt="" /></a>
+                                <img src="assets/images/product/8.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+                                        <strong>Chaz Kangeroo Hoodie1</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -558,14 +558,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/11.webp" alt="" /></a>
+                                <img src="assets/images/product/11.webp" alt="" />
                                 <span class="new">new</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Fusion Backpack</a></strong>
+                                        <strong>Fusion Backpack</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -582,14 +582,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/9.webp" alt="" /></a>
+                                <img src="assets/images/product/9.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Joust Duffle Bag1</a></strong>
+                                        <strong>Joust Duffle Bag1</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -609,14 +609,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/8.webp" alt="" /></a>
+                                <img src="assets/images/product/8.webp" alt="" />
                                 <span class="new">new</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">MH01-Black</a></strong>
+                                        <strong>MH01-Black</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -633,14 +633,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/6.webp" alt="" /></a>
+                                <img src="assets/images/product/6.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Rival Field Messenger</a></strong>
+                                        <strong>Rival Field Messenger</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -660,14 +660,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/7.webp" alt="" /></a>
+                                <img src="assets/images/product/7.webp" alt="" />
                                 <span class="new">new</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Strive Shoulder Pack</a></strong>
+                                        <strong>Strive Shoulder Pack</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -684,14 +684,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/10.webp" alt="" /></a>
+                                <img src="assets/images/product/10.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Wayfarer Messenger Bag</a></strong>
+                                        <strong>Wayfarer Messenger Bag</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -715,14 +715,14 @@
                     <div class="tab-active owl-carousel next-prev-style">
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/10.webp" alt="" /></a>
+                                <img src="assets/images/product/10.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+                                        <strong>Chaz Kangeroo Hoodie1</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -739,14 +739,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/10.webp" alt="" /></a>
+                                <img src="assets/images/product/10.webp" alt="" />
                                 <span class="new">new</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Fusion Backpack</a></strong>
+                                        <strong>Fusion Backpack</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -763,14 +763,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/9.webp" alt="" /></a>
+                                <img src="assets/images/product/9.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Joust Duffle Bag1</a></strong>
+                                        <strong>Joust Duffle Bag1</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -790,14 +790,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/8.webp" alt="" /></a>
+                                <img src="assets/images/product/8.webp" alt="" />
                                 <span class="new">new</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">MH01-Black</a></strong>
+                                        <strong>MH01-Black</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -814,14 +814,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/7.webp" alt="" /></a>
+                                <img src="assets/images/product/7.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Rival Field Messenger</a></strong>
+                                        <strong>Rival Field Messenger</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -841,14 +841,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/6.webp" alt="" /></a>
+                                <img src="assets/images/product/6.webp" alt="" />
                                 <span class="new">new</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Strive Shoulder Pack</a></strong>
+                                        <strong>Strive Shoulder Pack</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -865,14 +865,14 @@
                         </div>
                         <div class="single-product">
                             <div class="product-img">
-                                <a href="shop-single-product.html"><img src="assets/images/product/11.webp" alt="" /></a>
+                                <img src="assets/images/product/11.webp" alt="" />
                                 <span class="sale">Sale</span>
                             </div>
                             <div class="product-item-details text-center">
                                 <div class="product-name-review tab-product-name-review">
                                     <div class="product-name mt-30 ">
                                         <span>Sample Category</span>
-                                        <strong><a href="shop-single-product.html">Wayfarer Messenger Bag</a></strong>
+                                        <strong>Wayfarer Messenger Bag</strong>
                                     </div>
                                     <div class="product-review">
                                         <ul>
@@ -980,7 +980,7 @@
                             </h3>
                             <p>We're releasing 2 premium Magento templates each month. Every template is designed with different styles and targeted for each business trend</p>
                             <div class="readmore-btn">
-                                <a href="#">Read more <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="{{url('blog')}}">Read more <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1005,7 +1005,7 @@
                             </h3>
                             <p>We're releasing 2 premium Magento templates each month. Every template is designed with different styles and targeted for each business trend</p>
                             <div class="readmore-btn">
-                                <a href="#">Read more <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="{{url('blog')}}">Read more <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1030,7 +1030,7 @@
                             </h3>
                             <p>We're releasing 2 premium Magento templates each month. Every template is designed with different styles and targeted for each business trend</p>
                             <div class="readmore-btn">
-                                <a href="#">Read more <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="{{url('blog')}}">Read more <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1055,7 +1055,7 @@
                             </h3>
                             <p>We're releasing 2 premium Magento templates each month. Every template is designed with different styles and targeted for each business trend</p>
                             <div class="readmore-btn">
-                                <a href="#">Read more <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="{{url('blog')}}">Read more <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1080,7 +1080,7 @@
                             </h3>
                             <p>We're releasing 2 premium Magento templates each month. Every template is designed with different styles and targeted for each business trend</p>
                             <div class="readmore-btn">
-                                <a href="#">Read more <i class="fa fa-long-arrow-right"></i></a>
+                                <a href="{{url('blog')}}">Read more <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>

@@ -8,7 +8,7 @@
     @component('components.header') @endcomponent
 
 <!-- shop-area start -->
-	<div class="breadcrumbs-area ptb-10 bg-4 mb-30">
+	{{-- <div class="breadcrumbs-area ptb-10 bg-4 mb-30">
 		<div class="container">
 			<div class="woocommerce-breadcrumb ptb-15">
 				<div class="menu">
@@ -19,12 +19,14 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> --}}
 
 	<div class="container">
 		<div class="row flex-row-reverse">
 			<!-- product-vew area start -->
 			<div class="col-xl-9 col-lg-8">
+                <br>
+                <br>
 				<div class="slider mb-20">
 					<img src="assets/images/shop/1.webp" alt="" />
 				</div>
@@ -33,7 +35,7 @@
 						<h2>Shop</h2>
 					</div>
 					<div class="tab-menu-area border-bottom mb-30">
-						<div class="row">
+						{{-- <div class="row">
 							<div class="col-md-7 col-sm-6">
 								<div class="shop-tab-menu">
 									<ul class="nav">
@@ -54,7 +56,7 @@
 									<a href="#"><i class="fa fa-arrow-up"></i></a>
 								</div>
 							</div>
-						</div>
+						</div> --}}
 					</div>
 					<div class="tab-content">
 						<div role="tabpanel" class="tab-pane fade show active" id="tab1">
@@ -62,14 +64,14 @@
 								<div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
 									<div class="single-product mb-30">
 										<div class="product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/1.webp" alt="" /></a>
+											<img src="assets/images/product/1.webp" alt="" />
 											<span class="sale">Sale</span>
 										</div>
 										<div class="product-item-details text-center">
 											<div class="product-name-review tab-product-name-review">
 												<div class="product-name mt-30 ">
 													<span>Sample Category</span>
-													<strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+													<strong>Chaz Kangeroo Hoodie1</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -103,14 +105,14 @@
 								<div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
 									<div class="single-product  mb-30">
 										<div class="product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/2.webp" alt="" /></a>
+											<img src="assets/images/product/2.webp" alt="" />
 											<span class="new">New</span>
 										</div>
 										<div class="product-item-details text-center">
 											<div class="product-name-review tab-product-name-review">
 												<div class="product-name mt-30 ">
 													<span>Sample Category</span>
-													<strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+													<strong>Chaz Kangeroo Hoodie1</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -144,14 +146,14 @@
 								<div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
 									<div class="single-product  mb-30">
 										<div class="product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/3.webp" alt="" /></a>
+											<img src="assets/images/product/3.webp" alt="" />
 											<span class="sale">Sale</span>
 										</div>
 										<div class="product-item-details text-center">
 											<div class="product-name-review tab-product-name-review">
 												<div class="product-name mt-30 ">
 													<span>Sample Category</span>
-													<strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+													<strong>Chaz Kangeroo Hoodie1</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -185,14 +187,14 @@
 								<div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
 									<div class="single-product  mb-30">
 										<div class="product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/4.webp" alt="" /></a>
+											<img src="assets/images/product/4.webp" alt="" />
 											<span class="new">New</span>
 										</div>
 										<div class="product-item-details text-center">
 											<div class="product-name-review tab-product-name-review">
 												<div class="product-name mt-30 ">
 													<span>Sample Category</span>
-													<strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+													<strong>Chaz Kangeroo Hoodie1</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -226,14 +228,14 @@
 								<div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
 									<div class="single-product  mb-30">
 										<div class="product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/5.webp" alt="" /></a>
+											<img src="assets/images/product/5.webp" alt="" />
 											<span class="sale">Sale</span>
 										</div>
 										<div class="product-item-details text-center">
 											<div class="product-name-review tab-product-name-review">
 												<div class="product-name mt-30 ">
 													<span>Sample Category</span>
-													<strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+													<strong>Chaz Kangeroo Hoodie1</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -267,14 +269,14 @@
 								<div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
 									<div class="single-product  mb-30">
 										<div class="product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/2.webp" alt="" /></a>
+											<img src="assets/images/product/2.webp" alt="" />
 											<span class="new">New</span>
 										</div>
 										<div class="product-item-details text-center">
 											<div class="product-name-review tab-product-name-review">
 												<div class="product-name mt-30 ">
 													<span>Sample Category</span>
-													<strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+													<strong>Chaz Kangeroo Hoodie1</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -308,14 +310,14 @@
 								<div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
 									<div class="single-product  mb-30">
 										<div class="product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/7.webp" alt="" /></a>
+											<img src="assets/images/product/7.webp" alt="" />
 											<span class="sale">Sale</span>
 										</div>
 										<div class="product-item-details text-center">
 											<div class="product-name-review tab-product-name-review">
 												<div class="product-name mt-30 ">
 													<span>Sample Category</span>
-													<strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+													<strong>Chaz Kangeroo Hoodie1</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -349,14 +351,14 @@
 								<div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
 									<div class="single-product  mb-30">
 										<div class="product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/8.webp" alt="" /></a>
+											<img src="assets/images/product/8.webp" alt="" />
 											<span class="new">New</span>
 										</div>
 										<div class="product-item-details text-center">
 											<div class="product-name-review tab-product-name-review">
 												<div class="product-name mt-30 ">
 													<span>Sample Category</span>
-													<strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+													<strong>Chaz Kangeroo Hoodie1</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -390,14 +392,14 @@
 								<div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
 									<div class="single-product  mb-30">
 										<div class="product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/9.webp" alt="" /></a>
+											<img src="assets/images/product/9.webp" alt="" />
 											<span class="sale">Sale</span>
 										</div>
 										<div class="product-item-details text-center">
 											<div class="product-name-review tab-product-name-review">
 												<div class="product-name mt-30 ">
 													<span>Sample Category</span>
-													<strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+													<strong>Chaz Kangeroo Hoodie1</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -435,12 +437,12 @@
 								<div class="col-sm-12">
 									<div class="product-wrapper clear border-bottom mb-30">
 										<div class="product-img shop-product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/9.webp" alt="" /></a>
+											<img src="assets/images/product/9.webp" alt="" />
 										</div>
 										<div class="product-item-details shop-product-item-details">
 											<div class="product-name-review">
 												<div class="product-name ">
-													<strong><a href="shop-single-product.html">Chaz Kangeroo Hoodie1</a></strong>
+													<strong>Chaz Kangeroo Hoodie1</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -478,12 +480,12 @@
 								<div class="col-sm-12">
 									<div class="product-wrapper clear border-bottom mb-30">
 										<div class="product-img shop-product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/2.webp" alt="" /></a>
+											<img src="assets/images/product/2.webp" alt="" />
 										</div>
 										<div class="product-item-details shop-product-item-details">
 											<div class="product-name-review">
 												<div class="product-name ">
-													<strong><a href="shop-single-product.html"> Fusion Backpack</a></strong>
+													<strong>Fusion Backpack</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -518,12 +520,12 @@
 								<div class="col-sm-12">
 									<div class="product-wrapper  clear border-bottom mb-30">
 										<div class="product-img shop-product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/3.webp" alt="" /></a>
+											<img src="assets/images/product/3.webp" alt="" />
 										</div>
 										<div class="product-item-details shop-product-item-details">
 											<div class="product-name-review">
 												<div class="product-name">
-													<strong><a href="shop-single-product.html">MH01-Gray</a></strong>
+													<strong>MH01-Gray</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -564,12 +566,12 @@
 								<div class="col-sm-12">
 									<div class="product-wrapper  clear border-bottom mb-30">
 										<div class="product-img shop-product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/4.webp" alt="" /></a>
+											<img src="assets/images/product/4.webp" alt="" />
 										</div>
 										<div class="product-item-details shop-product-item-details">
 											<div class="product-name-review">
 												<div class="product-name ">
-													<strong><a href="shop-single-product.html">Rival Field Messenger </a></strong>
+													<strong>Rival Field Messenger </strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -606,12 +608,12 @@
 								<div class="col-sm-12">
 									<div class="product-wrapper  clear border-bottom mb-30">
 										<div class="product-img shop-product-img">
-											<a href="shop-single-product.html"><img src="assets/images/product/5.webp" alt="" /></a>
+											<img src="assets/images/product/5.webp" alt="" />
 										</div>
 										<div class="product-item-details shop-product-item-details">
 											<div class="product-name-review">
 												<div class="product-name ">
-													<strong><a href="shop-single-product.html">Wayfarer Messenger Bag</a></strong>
+													<strong>Wayfarer Messenger Bag</strong>
 												</div>
 												<div class="product-review">
 													<ul>
@@ -650,7 +652,7 @@
 					</div>
 				</div>
 				<!-- woocommerce-pagination-area -->
-				<div class="woocommerce-pagination-area d-flex justify-content-between pb-40 mb-100 border-bottom">
+				{{-- <div class="woocommerce-pagination-area d-flex justify-content-between pb-40 mb-100 border-bottom">
 					<div class="woocommerce-pagination">
 						<ul>
 							<li class="active"><a href="#">1</a></li>
@@ -667,7 +669,7 @@
 						</select>
 						<span> per page</span>
 					</div>
-				</div>
+				</div> --}}
 			</div>
 
 			<div class="col-xl-3 col-lg-4">
@@ -757,11 +759,11 @@
 						<div class="new-product-wrap shop-new-product-wrap">
 							<div class="new-product-item clear ptb-15 border-bottom">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/1.webp" alt="" /></a>
+									<img src="assets/images/product/home5/1.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Udon chicken soup</a></strong>
+										<strong>Udon chicken soup</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 45.00</span>
@@ -770,11 +772,11 @@
 							</div>
 							<div class="new-product-item clear ptb-15 border-bottom">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/2.webp" alt="" /></a>
+									<img src="assets/images/product/home5/2.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Rival Field Messenger</a></strong>
+										<strong>Rival Field Messenger</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 55.00</span>
@@ -783,11 +785,11 @@
 							</div>
 							<div class="new-product-item clear ptb-15 border-bottom">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/3.webp" alt="" /></a>
+									<img src="assets/images/product/home5/3.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Miso soup</a></strong>
+										<strong>Miso soup</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 55.00</span>
@@ -796,11 +798,11 @@
 							</div>
 							<div class="new-product-item clear ptb-15">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/1.webp" alt="" /></a>
+									<img src="assets/images/product/home5/1.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Fusion Backpack</a></strong>
+										<strong>Fusion Backpack</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 55.00</span>
@@ -811,11 +813,11 @@
 						<div class="new-product-wrap shop-new-product-wrap">
 							<div class="new-product-item clear ptb-15 border-bottom">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/6.webp" alt="" /></a>
+									<img src="assets/images/product/home5/6.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Udon chicken soup</a></strong>
+										<strong>Udon chicken soup</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 45.00</span>
@@ -824,11 +826,11 @@
 							</div>
 							<div class="new-product-item clear ptb-15 border-bottom">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/8.webp" alt="" /></a>
+									<img src="assets/images/product/home5/8.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Rival Field Messenger</a></strong>
+										<strong>Rival Field Messenger</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 55.00</span>
@@ -837,11 +839,11 @@
 							</div>
 							<div class="new-product-item clear ptb-15 border-bottom">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/3.webp" alt="" /></a>
+									<img src="assets/images/product/home5/3.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Miso soup</a></strong>
+										<strong> soup</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 55.00</span>
@@ -850,11 +852,11 @@
 							</div>
 							<div class="new-product-item clear ptb-15">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/3.webp" alt="" /></a>
+									<img src="assets/images/product/home5/3.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Fusion Backpack</a></strong>
+										<strong>Fusion Backpack</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 55.00</span>
@@ -865,11 +867,11 @@
 						<div class="new-product-wrap shop-new-product-wrap">
 							<div class="new-product-item  clear ptb-15 border-bottom">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/5.webp" alt="" /></a>
+									<img src="assets/images/product/home5/5.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Spicy soup seafood</a></strong>
+										<strong>Spicy soup seafood</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 30.00</span>
@@ -881,11 +883,11 @@
 							</div>
 							<div class="new-product-item clear ptb-15 border-bottom">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/7.webp" alt="" /></a>
+									<img src="assets/images/product/home5/7.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">MH01-Black</a></strong>
+										<strong>MH01-Black</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 25.00</span>
@@ -894,11 +896,11 @@
 							</div>
 							<div class="new-product-item clear ptb-15 border-bottom">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/10.webp" alt="" /></a>
+									<img src="assets/images/product/home5/10.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Miso soup with</a></strong>
+										<strong>Miso soup with</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 25.00</span>
@@ -907,11 +909,11 @@
 							</div>
 							<div class="new-product-item clear ptb-15">
 								<div class="product-img home2-product-img pull-left">
-									<a href="shop-single-product.html"><img src="assets/images/product/home5/1.webp" alt="" /></a>
+									<img src="assets/images/product/home5/1.webp" alt="" />
 								</div>
 								<div class="product-item-details  pull-right home2-product-item-details">
 									<div class="product-name">
-										<strong><a href="shop-single-product.html">Cream soup with</a></strong>
+										<strong>Cream soup with</strong>
 									</div>
 									<div class="product-review">
 										<span class="special-price">$ 25.00</span>

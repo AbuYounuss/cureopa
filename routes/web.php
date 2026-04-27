@@ -65,3 +65,13 @@ Route::get('/terms-conditions', function () {
 Route::get('/privacy', function () {
     return view('pages.privacy');
 })->name('privacy');
+
+// return policy route
+Route::get('/return-policy', function () {
+    return view('pages.return-policy');
+})->name('return-policy');
+
+// faq route
+Route::get('/faq', function () {
+    return view('pages.faq');
+})->name('faq');
