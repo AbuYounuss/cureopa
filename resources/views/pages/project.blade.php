@@ -22,7 +22,7 @@
                 <!-- Single Project -->
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-wrap mb-30 border">
-                        <div class="blog-img">
+                        <div class="">
                             <a href="#"><img src="assets/images/project/netvly.png" alt="Netvly.com" /></a>
                         </div>
                         <div class="blog-info p-20">
@@ -34,7 +34,7 @@
                 <!-- Single Project -->
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-wrap mb-30 border">
-                        <div class="blog-img">
+                        <div>
                             <a href="#"><img src="assets/images/project/vextroza.png" alt="Vextroza.com" /></a>
                         </div>
                         <div class="blog-info p-20">
@@ -46,7 +46,7 @@
                 <!-- Single Project -->
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-wrap mb-30 border">
-                        <div class="blog-img">
+                        <div>
                             <a href="#"><img src="assets/images/project/cartvly.png" alt="Cartvly.com" /></a>
                         </div>
                         <div class="blog-info p-20">
@@ -58,7 +58,7 @@
                 <!-- Single Project -->
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-wrap mb-30 border">
-                        <div class="blog-img">
+                        <div>
                             <a href="#"><img src="assets/images/project/texvaz.png" alt="Texvaz.com" /></a>
                         </div>
                         <div class="blog-info p-20">
@@ -70,7 +70,7 @@
                 <!-- Single Project -->
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-wrap mb-30 border">
-                        <div class="blog-img">
+                        <div>
                             <a href="#"><img src="assets/images/project/cureopa.png" alt="Cureopa.com" /></a>
                         </div>
                         <div class="blog-info p-20">
@@ -82,7 +82,7 @@
                 <!-- Single Project -->
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-wrap mb-30 border">
-                        <div class="blog-img">
+                        <div>
                             <a href="#"><img src="assets/images/project/aidvly.png" alt="Aidvly.com" /></a>
                         </div>
                         <div class="blog-info p-20">
@@ -94,7 +94,7 @@
                 <!-- Single Project -->
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-wrap mb-30 border">
-                        <div class="blog-img">
+                        <div>
                             <a href="#"><img src="assets/images/project/bookvly.png" alt="Bookvly.com" /></a>
                         </div>
                         <div class="blog-info p-20">
@@ -106,7 +106,7 @@
                 <!-- Single Project -->
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-wrap mb-30 border">
-                        <div class="blog-img">
+                        <div>
                             <a href="#"><img src="assets/images/project/landvly.png" alt="Landvly.com" /></a>
                         </div>
                         <div class="blog-info p-20">
@@ -118,7 +118,7 @@
                 <!-- Single Project -->
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-wrap mb-30 border">
-                        <div class="blog-img">
+                        <div>
                             <a href="#"><img src="assets/images/project/agroexa.png" alt="Agroexa.com" /></a>
                         </div>
                         <div class="blog-info p-20">

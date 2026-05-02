@@ -942,11 +942,14 @@
             <h1>Coreopa</h1>
             <h2>Newsletter</h2>
         </div>
-        <div class="newsletter">
+        {{-- <div class="newsletter">
             <form action="#">
                 <input type="email" placeholder="Enter your email address"/><br />
                 <button>Subscribe <i class="fa fa-long-arrow-right"></i></button>
             </form>
+        </div> --}}
+        <div>
+            <p class="text-white"> Stay updated with the latest news and exclusive offers from Coreopa, your go-to destination for health and beauty.</p>
         </div>
     </div>
 </div>
@@ -967,7 +970,7 @@
                         </a>
                     </div>
                     <div class="blog-content">
-                        <div class="blog-meta">
+                        <div class="blog-meta d-flex justify-content-center">
                             <span>08</span>
                             <span>/</span>
                             <span>September</span>
@@ -992,7 +995,7 @@
                         </a>
                     </div>
                     <div class="blog-content">
-                        <div class="blog-meta">
+                        <div class="blog-meta d-flex justify-content-center">
                             <span>08</span>
                             <span>/</span>
                             <span>September</span>
@@ -1017,7 +1020,7 @@
                         </a>
                     </div>
                     <div class="blog-content">
-                        <div class="blog-meta">
+                        <div class="blog-meta d-flex justify-content-center">
                             <span>08</span>
                             <span>/</span>
                             <span>September</span>
@@ -1042,7 +1045,7 @@
                         </a>
                     </div>
                     <div class="blog-content">
-                        <div class="blog-meta">
+                        <div class="blog-meta d-flex justify-content-center">
                             <span>08</span>
                             <span>/</span>
                             <span>September</span>
@@ -1067,7 +1070,7 @@
                         </a>
                     </div>
                     <div class="blog-content">
-                        <div class="blog-meta">
+                        <div class="blog-meta d-flex justify-content-center">
                             <span>08</span>
                             <span>/</span>
                             <span>September</span>
