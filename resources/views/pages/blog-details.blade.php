@@ -304,7 +304,7 @@
                         <div class="comment p-20-15">
                             <div class="single-comments clear mb-20">
                                 <div class="comment-img floatleft">
-                                    <img src="{{ asset('assets/images/comment/1.webp') }}" alt="" />
+                                    <img src="{{ asset('assets/images/comment/1.png') }}" alt="" />
                                 </div>
                                 <div class="comment-info">
                                     <h6>admin</h6>
@@ -315,7 +315,7 @@
 
                             <div class="single-comments clear mb-20">
                                 <div class="comment-img floatleft">
-                                    <img src="{{ asset('assets/images/comment/1.webp') }}" alt="" />
+                                    <img src="{{ asset('assets/images/comment/2.png') }}" alt="" />
                                 </div>
                                 <div class="comment-info">
                                     <h6>alex</h6>

@@ -965,7 +965,7 @@
             <div class=" blog-active owl-carousel next-prev-style">
                 <div class="blog-wrap text-center">
                     <div class="blog-img fix">
-                        <a href="blog-details.html">
+                        <a href="{{url('blog')}}">
                             <img src="assets/images/blog/1.webp" alt="" />
                         </a>
                     </div>
@@ -979,7 +979,7 @@
                         </div>
                         <div class="blog-info">
                             <h3>
-                                <a href="blog-details.html">Pellentesque massa erat, blandit eget tincidunt porta, eleifend nec .</a>
+                                <a href="{{url('blog')}}">Pellentesque massa erat, blandit eget tincidunt porta, eleifend nec .</a>
                             </h3>
                             <p>We're releasing 2 premium Magento templates each month. Every template is designed with different styles and targeted for each business trend</p>
                             <div class="readmore-btn">
@@ -990,8 +990,8 @@
                 </div>
                 <div class="blog-wrap text-center">
                     <div class="blog-img fix">
-                        <a href="blog-details.html">
-                            <img src="assets/images/blog/2.webp" alt="" />
+                        <a href="{{url('blog')}}">
+                            <img src="assets/images/blog/blog1.jpg" alt="" />
                         </a>
                     </div>
                     <div class="blog-content">
@@ -1004,7 +1004,7 @@
                         </div>
                         <div class="blog-info">
                             <h3>
-                                <a href="blog-details.html">Pellentesque massa erat, blandit eget tincidunt porta, eleifend nec .</a>
+                                <a href="{{url('blog')}}">Pellentesque massa erat, blandit eget tincidunt porta, eleifend nec .</a>
                             </h3>
                             <p>We're releasing 2 premium Magento templates each month. Every template is designed with different styles and targeted for each business trend</p>
                             <div class="readmore-btn">
@@ -1015,7 +1015,7 @@
                 </div>
                 <div class="blog-wrap text-center">
                     <div class="blog-img fix">
-                        <a href="blog-details.html">
+                        <a href="{{url('blog')}}">
                             <img src="assets/images/blog/3.webp" alt="" />
                         </a>
                     </div>
@@ -1029,7 +1029,7 @@
                         </div>
                         <div class="blog-info">
                             <h3>
-                                <a href="blog-details.html">Pellentesque massa erat, blandit eget tincidunt porta, eleifend nec .</a>
+                                <a href="{{url('blog')}}">Pellentesque massa erat, blandit eget tincidunt porta, eleifend nec .</a>
                             </h3>
                             <p>We're releasing 2 premium Magento templates each month. Every template is designed with different styles and targeted for each business trend</p>
                             <div class="readmore-btn">
@@ -1040,7 +1040,7 @@
                 </div>
                 <div class="blog-wrap text-center">
                     <div class="blog-img fix">
-                        <a href="blog-details.html">
+                        <a href="{{url('blog')}}">
                             <img src="assets/images/blog/2.webp" alt="" />
                         </a>
                     </div>
@@ -1054,7 +1054,7 @@
                         </div>
                         <div class="blog-info">
                             <h3>
-                                <a href="blog-details.html">Pellentesque massa erat, blandit eget tincidunt porta, eleifend nec .</a>
+                                <a href="{{url('blog')}}">Pellentesque massa erat, blandit eget tincidunt porta, eleifend nec .</a>
                             </h3>
                             <p>We're releasing 2 premium Magento templates each month. Every template is designed with different styles and targeted for each business trend</p>
                             <div class="readmore-btn">
@@ -1065,7 +1065,7 @@
                 </div>
                 <div class="blog-wrap text-center">
                     <div class="blog-img fix">
-                        <a href="blog-details.html">
+                        <a href="{{url('blog')}}">
                             <img src="assets/images/blog/1.webp" alt="" />
                         </a>
                     </div>
@@ -1079,7 +1079,7 @@
                         </div>
                         <div class="blog-info">
                             <h3>
-                                <a href="blog-details.html">Pellentesque massa erat, blandit eget tincidunt porta, eleifend nec .</a>
+                                <a href="{{url('blog')}}">Pellentesque massa erat, blandit eget tincidunt porta, eleifend nec .</a>
                             </h3>
                             <p>We're releasing 2 premium Magento templates each month. Every template is designed with different styles and targeted for each business trend</p>
                             <div class="readmore-btn">

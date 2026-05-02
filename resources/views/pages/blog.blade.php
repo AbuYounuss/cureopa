@@ -20,7 +20,7 @@
             [
                 'slug' => 'natural-hair-care-remedies-for-healthy-locks',
                 'title' => 'Natural Hair Care Remedies for Healthy Locks',
-                'image' => 'assets/images/blog/2.webp',
+                'image' => 'assets/images/blog/blog2.png',
                 'day' => '07',
                 'month' => 'September',
                 'year' => '2025',
@@ -80,7 +80,7 @@
             [
                 'slug' => 'morning-routines-for-beauty-and-wellness',
                 'title' => 'Morning Routines for Beauty and Wellness',
-                'image' => 'assets/images/blog/5.webp',
+                'image' => 'assets/images/blog/blog1.jpg',
                 'day' => '08',
                 'month' => 'September',
                 'year' => '2025',
