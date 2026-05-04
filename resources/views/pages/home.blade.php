@@ -949,7 +949,7 @@
             </form>
         </div> --}}
         <div>
-            <p class="text-white"> Stay updated with the latest news and exclusive offers from Coreopa, your go-to destination for health and beauty.</p>
+            <p class="text-white"> Stay updated with the latest news and exclusive <br> offers from Coreopa, your go-to destination for health <br> and beauty.</p>
         </div>
     </div>
 </div>

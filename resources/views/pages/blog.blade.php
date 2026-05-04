@@ -149,7 +149,7 @@
                                     </div>
                                 @endforeach
 
-                                <div class="col-md-12">
+                                {{-- <div class="col-md-12">
                                     <div class="woocommerce-pagination-area ptb-15 mb-30 bg-4">
                                         <div class="woocommerce-pagination text-center">
                                             <ul>
@@ -159,7 +159,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                </div>
+                                </div> --}}
 
                             </div>
                         </div>
